@@ -1,0 +1,7 @@
+package net.iqss
+
+class Customer {
+
+    static constraints = {
+    }
+}

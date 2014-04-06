@@ -1,0 +1,5 @@
+package net.iqss
+
+class CreditCardTransactionControllerSpec {
+
+}
